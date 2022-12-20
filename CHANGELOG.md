@@ -6,7 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this library adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 as well as to [Module version numbering](https://go.dev/doc/modules/version-numbers).
 
-## [Unreleased](https://github.com/goyek/goyek/compare/v2.0.0-rc.12...HEAD)
+## [Unreleased](https://github.com/goyek/goyek/compare/v2.0.0...HEAD)
+
+## [2.0.0](https://github.com/goyek/goyek/compare/v1.1.0...v2.0.0) - 2022-12-24
+
+The main reason behind `v2` was improving customization.
+It contains many **breaking changes**.
+
+TODO: Merge all changelogs from `2.0.0-rc.1` to `2.0.0-rc.12`.
 
 <!-- markdownlint-disable-next-line line-length -->
 ## [2.0.0-rc.12](https://github.com/goyek/goyek/compare/v2.0.0-rc.11...v2.0.0-rc.12) - 2022-11-24
